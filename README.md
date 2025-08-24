@@ -13,7 +13,7 @@
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/isPique/Tor-IP-Changer.git
+    git clone https://github.com/CodeCr4cker/Tor-IP-Changer.git
     ```
 
 2. Navigate to the project directory:
@@ -39,7 +39,7 @@
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/isPique/Tor-IP-Changer.git
+    git clone https://github.com/CodeCr4cker/Tor-IP-Changer.git
     ```
 
 2. Navigate to the project directory:
@@ -65,4 +65,4 @@
 
 <br>
 
-![Terminal](https://github.com/isPique/Tor-IP-Changer/blob/main/Terminal.jpg)
+![Terminal](https://github.com/CodeCr4cker/Tor-IP-Changer/blob/main/Terminal.jpg)
